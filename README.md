@@ -3,7 +3,7 @@
 
 Please note that I use this for practice from very raw scratch, I made this practice answer without search engine or AI help, or console on inspect element in any browser or code editor to check the answer. Assume that I do not have prior knowledge to Javascript at all eventhough I learn Javaswcript in FSSE RevoU Bootcamp. 
 
-### Number 5 print all whole numbers in between
+### Number 5 home practice: print all whole numbers in between
 
 ```
 Start
@@ -16,7 +16,7 @@ End
 
 ```
 
-### Number 7 checks unique values
+### Number 7 home practice: check unique values
 
 ```
 start
@@ -28,7 +28,7 @@ else one number in x is counted not more than one, return or print true
 end
 ```
 
-### Number 3 reverse string function
+### Number 3 home practice: reverse string function
 
 ```
 comment only to identify number order in alphabetic letters:
@@ -45,7 +45,7 @@ change order of set number of 8, 5, 12, 12, 15 into 15, 12, 12, 5, 8
 return 15, 12, 12, 5, 8 as initial aphabethic definition
 end
 ```
-### Number 1 number summation
+### Number 1 home practice: number summation
 
 ```
 start
