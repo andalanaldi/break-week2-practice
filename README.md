@@ -1,7 +1,7 @@
 # break-week2-practice
 ## Algorithms At Home Practice with Pseudo Code created by Aldi Andalan (andalanaldi@gmail.com)
 
-Please note that I use this for practice from very raw scratch, I made this practice answer without search engine or AI help, or console on inspect element in any browser or code editor to check the answer. Assume that I do not have prior knowledge to Javascript at all eventhough I learn Javaswcript in FSSE RevoU Bootcamp. 
+Please note that I use this for practice from very raw scratch, I made this practice answer without search engine or AI help, or console on inspect element in any browser or code editor to check the answer. Assume that I do not have prior knowledge to Javascript at all eventhough I learn Javaswcript in FSSE RevoU Bootcamp. I only practice on it just for 40 minutes so I do not expect that I close to the most ideal psesudo code algorithm nevertheless, at least I try to practice to prepare for future algorithms lecture in milestone 4 or in futher future. I hope I still get feedback on guidance on how to start and improve my algorithms skills  
 
 ### Number 5 home practice: print all whole numbers in between
 
