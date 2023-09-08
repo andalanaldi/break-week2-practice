@@ -56,7 +56,7 @@ or define y as sum all of numbers that are more than zero and less than 6
 return y
 end
 ```
-### Number 1 return the duplicates
+### Number 1 advance practice: return the duplicates
 
 ```
 start
